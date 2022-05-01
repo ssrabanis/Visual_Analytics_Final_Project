@@ -3,3 +3,8 @@ This is the Final Project for the Visual analytics class. This project is for Cr
 
 Create a shiny app
 you can access my app [here](https://ssshinyapp.shinyapps.io/final/)
+
+## How to re-create the application
+1. Download the final folder
+2. Open the R project
+3. Run the application
