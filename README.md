@@ -39,3 +39,6 @@ d.	www/
 4. ”Daily Trend” will provide the daily High and low value of the each coin.
 
 ## Data sources:
+
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+https://www.kaggle.com/datasets/jessevent/all-crypto-currencies?select=crypto-markets.csv
