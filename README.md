@@ -32,3 +32,9 @@ d.	www/
 5.	Open final.Rproj in R Studio 
 6.	Open final_app_Sammie.R and click” Run App” in the upper right corner of the control pannel
 
+## Addition Detail:
+1.  The overview tab will give you a breaf description about all the 7 types of coins
+2.  "Market Capital" tab will provide the year-on-year comparison for all the coins with a year as selection option. 
+3.  "% Change" will provide the daily price change of each coin by year and month.
+4. ”Daily Trend” will provide the daily High and low value of the each coin.
+
