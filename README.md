@@ -38,3 +38,4 @@ d.	www/
 3.  "% Change" will provide the daily price change of each coin by year and month.
 4. ”Daily Trend” will provide the daily High and low value of the each coin.
 
+## Data sources:
